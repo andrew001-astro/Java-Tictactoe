@@ -1,0 +1,1 @@
+rm *.class server/*.class client/*.class
